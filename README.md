@@ -3,6 +3,7 @@
 Slides zur unserer Session auf den Drupal-Business-an-Community-Days Heidelberg 2017
 
 Session: https://www.drupal-business-and-community-days.de/de/node/54
+
 Slides: https://reinblau.github.io/rb-organisation/
 
 
